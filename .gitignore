@@ -1,0 +1,14 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+~$*
